@@ -9,4 +9,5 @@
 
 body {
   background-image: linear-gradient(to bottom right,cyan,blue);
+  background-repeat: no-repeat;
 }
